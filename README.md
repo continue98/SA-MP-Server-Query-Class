@@ -11,7 +11,7 @@ Basic Samp Server Query API for C#
 You may hack it, modify it, repost it but please do not sell the code or lose the credits. That's all.
 
 Here's an example (C#) - It's very simple:
-```
+```csharp
 static void Main(string[] args)
 {
     SampQuery api = new SampQuery("66.85.149.2", 7777, 'i');
